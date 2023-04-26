@@ -11,8 +11,7 @@ const mockTodo = [
     isDone: false,
     content: "React 공부하기",
     createdDate: new Date().getTime(),
-  },
-  {
+  },  {
     id: 1,
     isDone: false,
     content: "빨래 널기",
